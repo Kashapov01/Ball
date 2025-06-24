@@ -1,0 +1,6 @@
+{
+    "smoothSpeed": 0.8,
+    "speedFactor": 0.065,
+    "minFOV": 60,
+    "maxFOV": 75
+}

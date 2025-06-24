@@ -1,0 +1,19 @@
+﻿{
+  "Ball": {
+    "health": 10
+  },
+  "Coin": {
+    "count": 4,
+    "reward": 50,
+    "speedRotation": 120
+  },
+  "Enemies": {
+    "hedgehog": {
+      "damage": 2,
+      "speed": 3.0
+    },
+    "spikes": {
+      "damage": 4
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Coins",
+    "rootNamespace": "",
+    "references": [
+        "GUID:10362d84b5f149419c8f44015c308968",
+        "GUID:a4682af5d22649068e5c83c887f34f9b",
+        "GUID:29bcac23522240a8b172cd6de194b78b",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:da61daddf360a2848b3749c55df9ae2c",
+        "GUID:b989037fef5f48148f173133e648a392"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

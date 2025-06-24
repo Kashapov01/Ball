@@ -1,0 +1,22 @@
+﻿{
+      "gravityStrength": 9.81,
+      "groundCheckDistance": 0.6,
+      "force": 15,
+      "reflectImpulse": 3,
+      "maxSpeed": 18,
+      "minDistanceToMove": 1,
+      "friction": 1.3,
+      "smoothRotate": 0.35,
+      "reboundActionTime": 0.08,
+      "ballRadius": 0.5,
+      "minHitZoneHedgehog" : -0.5,
+      "maxHitZoneHedgehog" : 0.5,
+      "ground": "Ground",
+      "obstacle": "Obstacle",
+      "originalColor": { "r": 1, "g": 1, "b": 1, "a": 1 },
+      "impactColor": { "r": 1, "g": 0.6, "b": 0.8, "a": 1  },
+      "damageColor": { "r": 1, "g": 0, "b": 0, "a": 1 },
+      "originalScale": { "x": 1, "y": 1, "z": 1 },
+      "verticalScale": { "x": 0.6, "y": 1, "z": 1 },
+      "horizontalScale": { "x": 1, "y": 1, "z": 0.6 }
+ }

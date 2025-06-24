@@ -1,0 +1,8 @@
+﻿{
+  "mainSceneName" : "Main",
+  "timeToMoveInMenu" : 1.85,
+  "durationLaunch" : 2,
+  "delayInLoading" : 0.4,
+  "negativeDirectionBallForMenu" : -1.0,
+  "positiveDirectionBallForMenu" : 1.0
+}
